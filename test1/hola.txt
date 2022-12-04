@@ -1,4 +1,8 @@
 Hola
 Git2
 Hola2
+<<<<<<< HEAD
 Kasrt1
+=======
+Kart2
+>>>>>>> origin/main
