@@ -1,4 +1,8 @@
 Hola
 Git2
 Hola2
+<<<<<<< HEAD
 test1
+=======
+test2
+>>>>>>> origin/main
