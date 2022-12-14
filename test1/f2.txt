@@ -1,2 +1,3 @@
 hola
-Hago un cambio aqui
+Tambien hago un cambio aqui :-/
+Alice Trabaja aqui y hace sus cambios commit y push y no colisionan
