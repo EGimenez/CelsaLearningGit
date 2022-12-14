@@ -1,3 +1,6 @@
 hola
 Tambien hago un cambio aqui :-/
+<<<<<<< HEAD
 Alice Trabaja aqui y hace sus cambios commit y push y no colisionan
+=======
+>>>>>>> origin/main
