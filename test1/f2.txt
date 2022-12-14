@@ -1,3 +1,9 @@
 hola
 Tambien hago un cambio aqui :-/
+<<<<<<< HEAD
 Alice hace commit  
+=======
+Bob hace commit y push 
+>>>>>>> origin/main
+
+Hacemos los cambios que procedan
