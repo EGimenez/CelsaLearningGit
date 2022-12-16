@@ -1,5 +1,5 @@
 def f(x):
-	print(x)
+	print(x +5)
 
 def g(x):
-	return x + 5
+	return x + 4
