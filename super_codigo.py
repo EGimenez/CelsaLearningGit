@@ -5,4 +5,4 @@ def g(x):
 	return x + 4
 
 def h(x):
-	print('casos')
+	print('horror')
