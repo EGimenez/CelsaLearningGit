@@ -6,3 +6,6 @@ def g(x):
 
 def h(x):
 	print('horror')
+
+def i(x):
+	print('peligro')
